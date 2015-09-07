@@ -1,0 +1,2009 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CTDECUsitronicSequencer.Models.RichPlugins.XML>
+  <Version>1.13.3.6</Version>
+  <Variables>
+    <ChannelGroup>
+      <Name>String</Name>
+      <Channel>
+        <Name>S001</Name>
+        <Value>Référence Pièce : 105G</Value>
+      </Channel>
+      <Channel>
+        <Name>S002</Name>
+        <Value>Nombre de pièces à produire : 500</Value>
+      </Channel>
+      <Channel>
+        <Name>S003</Name>
+        <Value>Nombre de pièces à produite : 490</Value>
+      </Channel>
+      <Channel>
+        <Name>S004</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S005</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S006</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S007</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S008</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S009</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S010</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S011</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S012</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S013</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S014</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S015</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S016</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S017</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S018</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S019</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S020</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S021</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S022</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S023</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S024</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S025</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S026</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S027</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S028</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S029</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S030</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S031</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S032</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S033</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S034</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S035</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S036</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S037</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S038</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S039</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S040</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S041</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S042</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S043</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S044</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S045</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S046</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S047</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S048</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S049</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S050</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S051</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S052</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S053</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S054</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S055</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S056</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S057</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S058</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S059</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S060</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S061</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S062</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S063</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S064</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S065</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S066</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S067</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S068</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S069</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S070</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S071</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S072</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S073</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S074</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S075</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S076</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S077</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S078</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S079</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S080</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S081</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S082</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S083</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S084</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S085</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S086</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S087</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S088</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S089</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S090</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S091</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S092</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S093</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S094</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S095</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S096</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S097</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S098</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S099</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S100</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S101</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S102</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S103</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S104</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S105</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S106</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S107</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S108</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S109</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S110</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S111</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S112</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S113</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S114</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S115</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S116</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S117</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S118</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S119</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S120</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S121</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S122</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S123</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S124</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S125</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S126</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S127</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S128</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S129</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S130</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S131</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S132</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S133</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S134</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S135</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S136</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S137</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S138</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S139</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S140</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S141</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S142</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S143</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S144</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S145</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S146</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S147</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S148</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S149</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S150</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S151</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S152</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S153</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S154</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S155</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S156</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S157</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S158</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S159</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S160</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S161</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S162</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S163</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S164</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S165</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S166</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S167</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S168</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S169</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S170</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S171</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S172</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S173</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S174</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S175</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S176</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S177</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S178</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S179</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S180</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S181</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S182</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S183</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S184</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S185</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S186</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S187</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S188</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S189</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S190</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S191</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S192</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S193</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S194</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S195</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S196</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S197</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S198</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S199</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S200</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S201</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S202</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S203</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S204</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S205</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S206</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S207</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S208</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S209</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S210</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S211</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S212</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S213</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S214</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S215</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S216</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S217</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S218</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S219</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S220</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S221</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S222</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S223</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S224</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S225</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S226</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S227</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S228</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S229</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S230</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S231</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S232</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S233</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S234</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S235</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S236</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S237</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S238</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S239</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S240</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S241</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S242</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S243</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S244</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S245</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S246</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S247</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S248</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S249</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S250</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S251</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S252</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S253</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S254</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S255</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S256</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S257</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S258</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S259</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S260</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S261</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S262</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S263</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S264</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S265</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S266</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S267</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S268</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S269</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S270</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S271</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S272</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S273</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S274</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S275</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S276</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S277</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S278</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S279</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S280</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S281</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S282</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S283</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S284</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S285</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S286</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S287</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S288</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S289</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S290</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S291</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S292</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S293</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S294</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S295</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S296</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S297</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S298</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S299</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S300</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S301</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S302</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S303</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S304</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S305</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S306</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S307</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S308</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S309</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S310</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S311</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S312</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S313</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S314</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S315</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S316</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S317</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S318</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S319</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S320</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S321</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S322</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S323</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S324</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S325</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S326</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S327</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S328</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S329</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S330</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S331</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S332</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S333</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S334</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S335</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S336</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S337</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S338</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S339</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S340</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S341</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S342</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S343</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S344</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S345</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S346</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S347</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S348</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S349</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S350</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S351</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S352</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S353</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S354</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S355</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S356</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S357</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S358</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S359</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S360</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S361</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S362</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S363</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S364</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S365</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S366</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S367</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S368</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S369</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S370</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S371</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S372</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S373</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S374</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S375</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S376</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S377</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S378</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S379</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S380</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S381</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S382</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S383</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S384</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S385</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S386</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S387</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S388</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S389</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S390</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S391</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S392</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S393</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S394</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S395</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S396</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S397</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S398</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S399</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S400</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S401</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S402</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S403</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S404</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S405</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S406</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S407</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S408</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S409</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S410</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S411</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S412</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S413</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S414</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S415</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S416</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S417</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S418</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S419</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S420</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S421</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S422</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S423</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S424</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S425</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S426</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S427</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S428</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S429</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S430</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S431</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S432</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S433</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S434</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S435</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S436</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S437</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S438</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S439</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S440</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S441</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S442</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S443</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S444</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S445</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S446</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S447</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S448</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S449</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S450</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S451</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S452</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S453</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S454</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S455</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S456</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S457</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S458</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S459</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S460</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S461</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S462</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S463</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S464</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S465</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S466</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S467</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S468</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S469</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S470</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S471</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S472</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S473</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S474</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S475</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S476</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S477</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S478</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S479</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S480</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S481</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S482</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S483</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S484</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S485</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S486</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S487</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S488</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S489</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S490</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S491</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S492</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S493</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S494</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S495</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S496</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S497</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S498</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S499</Name>
+        <Value />
+      </Channel>
+      <Channel>
+        <Name>S500</Name>
+        <Value />
+      </Channel>
+    </ChannelGroup>
+  </Variables>
+</CTDECUsitronicSequencer.Models.RichPlugins.XML>
