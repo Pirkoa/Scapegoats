@@ -11,15 +11,15 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
 -- -----------------------------------------------------
 -- Schema mydb
 -- -----------------------------------------------------
-CREATE SCHEMA IF NOT EXISTS `baudxml` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ;
-USE `baudxml` ;
+CREATE SCHEMA IF NOT EXISTS `ixbwc638` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ;
+USE `ixbwc638` ;
 
 -- -----------------------------------------------------
 -- Table `mydb`.`DATA`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `baudxml`.`DATA` ;
+DROP TABLE IF EXISTS `ixbwc638`.`DATA` ;
 
-CREATE TABLE IF NOT EXISTS `baudxml`.`DATA` (
+CREATE TABLE IF NOT EXISTS `ixbwc638`.`DATA` (
   `idDATA` INT NOT NULL AUTO_INCREMENT,
   `refPiece` VARCHAR(45) NOT NULL,
   `objectifProd` INT NOT NULL,
@@ -32,9 +32,9 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `mydb`.`ERROR`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `baudxml`.`ERROR` ;
+DROP TABLE IF EXISTS `ixbwc638`.`ERROR` ;
 
-CREATE TABLE IF NOT EXISTS `baudxml`.`ERROR` (
+CREATE TABLE IF NOT EXISTS `ixbwc638`.`ERROR` (
   `idERROR` INT NOT NULL AUTO_INCREMENT,
   `dateERROR` DATETIME NOT NULL,
   `messageERROR` VARCHAR(255) NOT NULL,
